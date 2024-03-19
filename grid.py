@@ -1,6 +1,6 @@
 import collections 
 
-ALIVE = "$"
+ALIVE = "#"
 DEAD = "-"
 
 class LifeGrid: 
