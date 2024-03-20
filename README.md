@@ -2,7 +2,7 @@ CSCI 154 - SIMULATION PROJECT 1: CONWAYS GAME OF LIFE
 
 Really just started working on this, but I have been going off of a free tutorial I found here. https://realpython.com/conway-game-of-life-python/#demo-conways-game-of-life-with-python
 
-Currently on step 3, here is the code as it stands.
+Currently on step 4, here is the code as it stands.
 
 Obviously need to go through, comment, and change some things up as we probably shouldnt just directly copy this project.
 
