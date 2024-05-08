@@ -14,7 +14,11 @@ The project aims to provide an interactive experience, allowing users to visuall
 
 ## How to Run the Program
 
-Getting started with the Game of Life simulation is straightforward. After cloning the repository and setting up your environment as outlined in the README, you're ready to launch the program and engage with the interactive simulation. Here's your guide to controlling and interacting with the Game of Life:
+Getting started with the Game of Life simulation is straightforward. After cloning the repository and setting up your environment, you're ready to launch the program and engage with the interactive simulation. Here's your guide to controlling and interacting with the Game of Life:
+
+You can begin the simulation (must have pygame installed) in the terminal by the following command:
+
+import main 
 
 - **Start the Simulation**: Press `Enter` to initiate the simulation. Observe as the cells transition through generations, adhering to the Game of Life's rules.
 - **Pause/Stop the Simulation**: Hit the `Spacebar` to pause the simulation at any moment.
